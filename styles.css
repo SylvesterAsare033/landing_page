@@ -1,4 +1,5 @@
-@import url("https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap");
+/* import poppins font */
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap");
 
 :root {
   --primary-color: #f3eae5;
@@ -11,6 +12,7 @@
   padding: 0;
   margin: 0;
   box-sizing: border-box;
+  font-family: Poppins;
 }
 
 .btn {
